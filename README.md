@@ -29,7 +29,6 @@ $ python3 main,py
 
 ![N|Solid](https://i.ibb.co/wc08YFg/Capture1.png)
 # Screenshot:
-<br>The entire project is split-up in nine stages demonstrated below: </br>
 ![N|Solid](https://i.ibb.co/JCtH1ks/collage-1.jpg)
 
 
